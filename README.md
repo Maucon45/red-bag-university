@@ -1,6 +1,6 @@
 ## This Website is of Red Bag University 
 
-<img src="Red Bag University.jpg" alt="University Website" />
+<img src="Red Bag University Website.png" alt="University Website" />
 
 ## For this website I used:
 - [React JS](https://react.dev/)
